@@ -24,7 +24,7 @@ Make sure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/employee-management-system.git
+   git clone https://github.com/KrishnaTripathy/EmployeeMS.git
    
 2. **Navigate to the project directory**   
    cd EmployeeMS
